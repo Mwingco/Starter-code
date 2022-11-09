@@ -13,3 +13,8 @@ nav {
   background-color: darkgrey;
 padding: 5px;
 }
+
+nav a:hover {
+text-decoration: underline;
+color: deepskyblue;
+}
